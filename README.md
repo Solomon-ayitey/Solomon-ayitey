@@ -1,27 +1,23 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsumVictor&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Solomon-ayitey&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 <h1 align="center">Hi there👋
-<br>I'm Asum Victor Glad to see you </h1>
-<h2>
-  [Lets's Talk](https://vrasum.tech) 
-</h2>
+<br>I'm Solomon ayitey Glad to see you </h1>
+
 
 <p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with two years of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss, and Bootstrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
-
+Solomon-ayitey
 ##  &nbsp; More About Me
 
 -  I’m **[currently available for hire]()**.
 
 -  I’m currently working with, **React and Typescript**
 
--  Ask me about **[JavaScript](), [React JS](), [Node JS](), and [Express JS]()**
+-  Ask me about **[JavaScript](), [React JS](), [Node JS](), and [Express JS]()** 
 
--  You can send me an email at **iamasum369@gmail.com** I'll respond ASAP.
+-  Please have a look at my [Portfolio]() for more details about me. I'm open to feedback and suggestions!
 
--  Please have a look at my [Portfolio](https://vrasum.tech) for more details about me. I'm open to feedback and suggestions!
-
--  You can visit my interesting articles on [Dev.to](https://dev.to/asumvictordev) and share your suggestions.
+-  You can visit my interesting articles on [Dev.to](https://dev.to/Solomon-ayitey) and share your suggestions.
 
 - Fun fact **I love Rap music and Solving puzzule**
 
@@ -52,19 +48,19 @@
 ##  &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AsumVictor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AsumVictor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AsumVictor&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Solomon-ayitey">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Solomon-ayitey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Solomon-ayitey&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ##  &nbsp;Connect with Me
 
 <p align="center"><b>
-<a href="https://asumvictor.github.io/me/"><img src="https://img.shields.io/badge/-asumvictor-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/victorasumdev"><img src="https://img.shields.io/badge/-AsumVictor-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:iamasum369@gmail.com"><img src="https://img.shields.io/badge/-iamasum369@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://Solomon-ayitey.github.io/me/"><img src="https://img.shields.io/badge/-Solomon-ayitey-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/victorasumdev"><img src="https://img.shields.io/badge/-Solomon-ayitey-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/--D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aiasumcode"><img src="https://img.shields.io/badge/aiasumcode--E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://web.facebook.com/CodeCardVault/"><img src="https://img.shields.io/badge/-CodeCardVault-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://dev.to/asumvictordev"><img src="https://img.shields.io/badge/-asumvictordev-1877F2?style=flat&logo=dev&logoColor=white"/></a>
+<a href="https://dev.to/Solomon-ayiteydev"><img src="https://img.shields.io/badge/-Solomon-ayiteydev-1877F2?style=flat&logo=dev&logoColor=white"/></a>
 <b></p>
